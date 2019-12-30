@@ -1,0 +1,6 @@
+title: mspath pages
+description: a couple of articles
+baseurl: ""
+url: "https://mspath.github.io"
+github_username:  mspath
+theme: minima
