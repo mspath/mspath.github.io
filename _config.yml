@@ -1,6 +1,5 @@
-title: mspath
-description: github pages
+title: [tk]
+description: [tk]
 baseurl: ""
 url: "https://mspath.github.io"
-github_username:  mspath
 theme: minima
