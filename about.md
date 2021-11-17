@@ -4,7 +4,11 @@ title: about
 permalink: /about.html
 ---
 
-tk: think and write about this
+Hi!
+
+Winter is coming, the days are getting shorter, why not take a run at the 100 days of code challenge?
+
+I think about repurposing these fantastic github pages for documenting my journey.
 
 ![tree][logo]
 
