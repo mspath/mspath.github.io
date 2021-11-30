@@ -3,3 +3,4 @@ description: 100 days of code
 baseurl: ""
 url: "https://mspath.github.io"
 theme: minima
+show_excerpts: true
