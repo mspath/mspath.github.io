@@ -1,11 +1,9 @@
-title: mspath's pages
+title: mspath.github.io
 author: markus spath
 description: 100 days of code / advent of code
 baseurl: ""
 site.url: "https://mspath.github.io"
-# theme: minima
 show_excerpts: true
-
 permalink: /:categories/:title.html
 date_format: "%b %-d, %Y"
 
