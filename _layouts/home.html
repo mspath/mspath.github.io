@@ -6,9 +6,11 @@ layout: default
 
   <hr>
   <h2>recent posts</h2>
+
   <ul>
   {% for post in site.posts %}
   <li>
+    ({{ post.date }})
     <h3>
       <a href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
