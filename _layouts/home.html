@@ -1,0 +1,70 @@
+---
+layout: default
+---
+<!-- layout: home.html -->
+<section class="container">
+
+  <h1 class="title">good day!</h1>
+
+  <hr>
+
+  <h2>Misc</h2>
+  <ul>
+  {% for post in site.categories.misc %}
+  <li>
+    <h3>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h3>
+  </li>
+  {% endfor %}
+  </ul>
+
+  <hr>
+
+  <h2>Youtube</h2>
+  <ul>
+  {% for post in site.categories.youtube %}
+  <li>
+    <h3>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h3>
+  </li>
+  {% endfor %}
+  </ul>
+
+  <hr>
+
+  <em>(sections currently unused, but can be used to draft or regenerate pages for hackr)</em>
+
+  <h2>Drafts</h2>
+  <ul>
+  {% for post in site.categories.drafts %}
+  <li>
+    <h3>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h3>
+  </li>
+  {% endfor %}
+  </ul>
+
+  <h2>Collections</h2>
+  <ul>
+  {% for post in site.categories.collections %}
+  <li>
+    <h3>
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h3>
+  </li>
+  {% endfor %}
+  </ul>
+
+</section>
+<!-- /layout: home.html -->

@@ -1,0 +1,33 @@
+body {
+  border-top: 6px solid #000;
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  padding-top: 3em;
+  padding-bottom: 1em;
+}
+
+header {
+  font-family: "Comic Sans MS", "Comic Sans", Georgia, serif, cursive;	
+}
+
+h1, h2, h3 {
+  font-family: "Comic Sans MS", "Comic Sans", Georgia, serif, cursive;
+}
+
+a {
+  color:#579;
+  text-decoration:none;
+}
+
+.title a {
+  color:#000;
+  text-decoration:none;
+}
+
+h1 a, h2 a {
+  color:#444;
+  text-decoration:none;
+}
+
+a:hover {
+  color:#c00;
+}

@@ -1,6 +1,7 @@
 ---
 title: "Checkin in"
 date: 2021-11-30
+category: misc
 ---
 
 just testing whether this still works..

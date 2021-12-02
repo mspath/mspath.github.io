@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<!-- layout: post.html -->
+<section class="container">
+  <div class="container">
+    <h1 class="title">
+      {{ page.title | escape }}
+    </h1>
+    <div class="columns">
+    <div class="column">
+      <div class="content">
+    {{ content }}
+      </div>
+    </div>
+    </div>
+    {% include tags.html %}
+  </div>
+</section>
+<!-- /layout: post.html -->
+
