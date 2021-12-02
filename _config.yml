@@ -1,6 +1,7 @@
 title: mspath.github.io
 author: markus spath
 description: notes
+baseurl: ""
 site.url: "https://mspath.github.io"
 show_excerpts: true
 permalink: /:categories/:title.html
@@ -12,5 +13,5 @@ defaults:
       path: "" 
       type: "posts"
     values:
-      layout: "default"
+      layout: "content"
 
