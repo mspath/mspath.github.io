@@ -4,13 +4,10 @@ layout: default
 <!-- layout: home.html -->
 <section class="container">
 
-  <h1 class="title">good day!</h1>
-
   <hr>
-
-  <h2>Misc</h2>
+  <h2>recent posts</h2>
   <ul>
-  {% for post in site.categories.misc %}
+  {% for post in site.posts %}
   <li>
     <h3>
       <a href="{{ post.url | relative_url }}">
@@ -22,7 +19,6 @@ layout: default
   </ul>
 
   <hr>
-
 
 </section>
 <!-- /layout: home.html -->
