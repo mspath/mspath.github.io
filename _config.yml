@@ -1,10 +1,9 @@
 title: mspath.github.io
 author: markus spath
 description: notes
-baseurl: ""
 site.url: "https://mspath.github.io"
 show_excerpts: true
-permalink: /:categories/:title.html
+permalink: /:year/:month/:title.html
 date_format: "%Y-%m-%d"
 
 defaults:
@@ -14,4 +13,3 @@ defaults:
       type: "posts"
     values:
       layout: "content"
-
