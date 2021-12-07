@@ -1,9 +1,0 @@
----
-title: "Checkin in"
-date: 2021-11-30
-author: markus spath
----
-
-just testing whether this still works. magically it does.
-
-I'm thinking about finally making use of these fantastic github pages by keeping a diary of the _100 days of code_ challenge and/or _advent of code 2021_. Nothing fancy or particulary useful, just as some sort of habit for holding myself accountable a bit.
