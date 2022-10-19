@@ -3,19 +3,12 @@ layout: default
 ---
 <!-- layout: home.html -->
 <section class="container">
-  <hr>
-  <h2>recent posts</h2>
-  <ul>
-  {% for post in site.posts %}
-  <li>
-    <h3>
-      ({{ post.date | date: "%Y-%m-%d"}}) 
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
-    </h3>
-  </li>
-  {% endfor %}
-  </ul>
+  <div class="columns">
+    <div class="column">
+      <div class="content">
+    {{ content }}
+      </div>
+    </div>
+    </div>
 </section>
 <!-- /layout: home.html -->
