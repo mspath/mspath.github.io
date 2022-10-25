@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Advent of Code 2021"
 date: 2021-12-31
 author: markus spath

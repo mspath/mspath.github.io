@@ -13,3 +13,9 @@ defaults:
       type: "posts"
     values:
       layout: "content"
+  -
+    scope:
+      path: "" 
+      type: "pages"
+    values:
+      layout: "page"
