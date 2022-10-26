@@ -238,9 +238,3 @@ see
 also did day 2 of AoC 20: password philosophy, which is about validating strings via regex and destructioning.
 
 ---
-
-`2021-11-30`
-
-just testing whether my github pages repository still works. magically it does.
-
-I'm thinking about finally making use of these fantastic github pages by keeping a diary of the _100 days of code_ challenge and/or _advent of code 2021_. Nothing fancy or particulary useful, just as some sort of habit for holding myself accountable a bit.
