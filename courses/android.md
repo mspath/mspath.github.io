@@ -3,11 +3,11 @@ title: "Android Developer Courses"
 author: markus spath
 ---
 
-Google currently recommends these Courses and Pathways for 'modern android development' with Kotlin, Jetpack and Compose:
+Google currently offers these Courses and Pathways for 'Modern Android Development' with Kotlin, Jetpack and Compose:
 
 ## Android Basics with Compose
 
-[link](https://developer.android.com/courses/android-basics-compose/course)
+[Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
 
 - [Unit 2 Building app UI](https://developer.android.com/courses/android-basics-compose/unit-2)
   - [Interacting with UI and state](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-3)
@@ -51,7 +51,7 @@ Google currently recommends these Courses and Pathways for 'modern android devel
 
 ## Android Basics in Kotlin
 
-[link](https://developer.android.com/courses/android-basics-kotlin/course)
+[Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
 - [Unit 3 Navigation](https://developer.android.com/courses/android-basics-kotlin/unit-3)
   - [Codelab Fragments and the Navigation Component](https://developer.android.com/codelabs/basic-android-kotlin-training-fragments-navigation-component)
@@ -64,11 +64,35 @@ Google currently recommends these Courses and Pathways for 'modern android devel
   - [Codelab Adaptive Layouts](https://developer.android.com/codelabs/basic-android-kotlin-training-adaptive-layouts)
   - [Project Lunch Tray app](https://developer.android.com/codelabs/basic-android-kotlin-training-project-lunch-tray)
 
+- [Unit 4 Connect to the internet](https://developer.android.com/courses/android-basics-kotlin/unit-4)
+  - [Coroutines](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-4-pathway-1)
+  - [Codelab Introduction to coroutines](https://developer.android.com/codelabs/basic-android-kotlin-training-introduction-coroutines)
+  - [Get and display data from the internet](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-4-pathway-2)
+  - [Codelab Get data from the internet](https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet)
+  - [Codelab Load and display images from the Internet](https://developer.android.com/codelabs/basic-android-kotlin-training-internet-images)
+  - [Project Amphibians app](https://developer.android.com/codelabs/basic-android-kotlin-training-project-amphibians)
+
+- [Unit 5 Data persistence](https://developer.android.com/courses/android-basics-kotlin/unit-5)
+  - [Introduction to SQL, Room, and Flow](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-5-pathway-1)
+  - [Codelab SQL basics](https://developer.android.com/codelabs/basic-android-kotlin-training-sql-basics)
+  - [Codelab Introduction to Room and Flow](https://developer.android.com/codelabs/basic-android-kotlin-training-intro-room-flow)
+  - [Use Room for data persistance](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-5-pathway-2)
+  - [Codelab Persist data with Room](https://developer.android.com/codelabs/basic-android-kotlin-training-persisting-data-room)
+  - [Codelab Read and update data with Room](https://developer.android.com/codelabs/basic-android-kotlin-training-update-data-room)
+  - [Codelab Repository Pattern](https://developer.android.com/codelabs/basic-android-kotlin-training-repository-pattern)
+  - [Codelab Preferences DataStore](https://developer.android.com/codelabs/basic-android-kotlin-training-preferences-datastore)
+  - [Project Forage app](https://developer.android.com/codelabs/basic-android-kotlin-training-project-forage)
+
+- [Unit 6 WorkManager](https://developer.android.com/courses/android-basics-kotlin/unit-6)
+  - [Schedule tasks with WorkManager](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-6-pathway-1)
+  - [Codelab Background work with WorkManager](https://developer.android.com/codelabs/android-workmanager)
+  - [Project Water Me app](https://developer.android.com/codelabs/basic-android-kotlin-training-project-water-me)
+
 ---
 
 ## Jetpack Compose for Android Developers
 
-[link](https://developer.android.com/courses/jetpack-compose/course)
+[Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course)
 
 - [Compose essentials](https://developer.android.com/courses/pathways/jetpack-compose-for-android-developers-1)
   - [Codelab Jetpack Compose basics](https://developer.android.com/codelabs/jetpack-compose-basics)
@@ -92,22 +116,30 @@ Google currently recommends these Courses and Pathways for 'modern android devel
 
 ## Modern Android App Architecture
 
-[link](https://developer.android.com/courses/pathways/android-architecture)
+[Modern Android App Architecture](https://developer.android.com/courses/pathways/android-architecture)
 
-A very good introduction based on articles and videos.
+A solid introduction based on articles and videos.
 
 ---
 
 ## Kotlin coroutines
 
-[link](https://developer.android.com/courses/pathways/android-coroutines)
+[Kotlin coroutines](https://developer.android.com/courses/pathways/android-coroutines)
 
 - [Codelab Android Room with a View](https://developer.android.com/codelabs/android-room-with-a-view-kotlin)
 
 ---
 
-## Google Play Store Listing Certificate
+## Certificates
 
-[link](https://play.google.com/academy/certificate/)
+### Associate Android Developer
+
+[Associate Android Developer](https://developers.google.com/certification/associate-android-developer)
+
+Currently registrations are closed, probably being updated to the current stack.
+
+### Google Play Store Listing Certificate
+
+[Google Play Store Listing Certificate](https://play.google.com/academy/certificate/)
 
 A free certificate covering best practices for the Play Store.
