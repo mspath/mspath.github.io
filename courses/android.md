@@ -11,7 +11,7 @@ Google currently offers these Courses and Pathways for 'Modern Android Developme
 
 - [Unit 2 Building app UI](https://developer.android.com/courses/android-basics-compose/unit-2)
   - [Interacting with UI and state](https://developer.android.com/courses/pathways/android-basics-compose-unit-2-pathway-3)
-  - [Codelab Intro to state in Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-using-state) ((> tiptimecomposed)[https://github.com/mspath/tiptimecomposed])
+  - [Codelab Intro to state in Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-using-state) ([> tiptimecomposed](https://github.com/mspath/tiptimecomposed))
   - [Codelab Calculate a custom tip](https://developer.android.com/codelabs/basic-android-kotlin-compose-calculate-tip)
   - [Codelab Write automated tests](https://developer.android.com/codelabs/basic-android-kotlin-compose-write-automated-tests)
   - [Project Create an Art Space app](https://developer.android.com/codelabs/basic-android-kotlin-compose-art-space)
