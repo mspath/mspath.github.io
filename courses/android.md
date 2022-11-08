@@ -21,7 +21,7 @@ Google currently offers these Courses and Pathways for 'Modern Android Developme
   - [Codelab Material Theming with Jetpack Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-material-theming) ([> woofcomposed](https://github.com/mspath/woofcomposed))
   - [Codelab Simple Animation with Jetpack Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-woof-animation)
   - [Codelab Testing for Accessibility](https://developer.android.com/codelabs/basic-android-kotlin-compose-test-accessibility)
-  - [Practice Build Superheroes app](https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-superheroes)
+  - [Practice Build Superheroes app](https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-superheroes) ([> superheroescomposed](https://github.com/mspath/superheroescomposed))
   - [Project Create a 30 Days App](https://developer.android.com/codelabs/basic-android-kotlin-compose-30-days)
 
 - [Unit 4 Navigation and app architecture](https://developer.android.com/courses/android-basics-compose/unit-4)
