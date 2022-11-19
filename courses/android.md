@@ -30,7 +30,7 @@ Google currently offers these Courses and Pathways for 'Modern Android Developme
   - [Codelab Write unit tests for ViewModel](https://developer.android.com/codelabs/basic-android-kotlin-compose-test-viewmodel)
   - [Practice Add a ViewModel to Dessert Clicker](https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-viewmodel) ([> desertclicker](https://github.com/mspath/desertclicker))
   - [Navigation in Jetpack Compose](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-2)
-  - [Codelab Navigate between screens with Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-navigation)
+  - [Codelab Navigate between screens with Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-navigation) ([> cupcake_recomposed](https://github.com/mspath/cupcake_recomposed))
   - [Codelab Test the Cupcake App](https://developer.android.com/codelabs/basic-android-kotlin-compose-test-cupcake)
   - [Practice Add navigation](https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-navigation)
   - [Adapt for different screen sizes](https://developer.android.com/courses/pathways/android-basics-compose-unit-4-pathway-3)
