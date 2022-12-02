@@ -1,6 +1,6 @@
 # mspath.github.io
 
-source files for the github pages.
+source files of the github pages.
 
 ---
 
