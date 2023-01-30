@@ -2,7 +2,7 @@
 title: "Android Basics with Compose"
 ---
 
-![Android Basics with Compose](/assets/img/courses/screenshot-android-basics-compose.png)
+![Screenshot Course Start Page](/assets/img/courses/screenshot-android-basics-compose.png)
 
 [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
 
