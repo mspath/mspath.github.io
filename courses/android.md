@@ -6,10 +6,11 @@ Google currently offers excellent Courses and Pathways for 'Modern Android Devel
 
 ## Training Courses
 
-![Screenshot Android Basics with Compose](/assets/img/courses/screenshot-android-basics-compose.png){:width="400px"}
-- [Android Basics with Compose](/courses/android-basics-compose.html)
-![Screenshot Android Basics in Kotlin](/assets/img/courses/screenshot-android-basics-kotlin.png){:width="400px"}
-- [Android Basics in Kotlin](/courses/android-basics-kotlin.html)
+- ![Screenshot Android Basics with Compose](/assets/img/courses/screenshot-android-basics-compose.png){:width="400px"}
+→ [Android Basics with Compose](/courses/android-basics-compose.html)
+
+- ![Screenshot Android Basics in Kotlin](/assets/img/courses/screenshot-android-basics-kotlin.png){:width="400px"}
+→ [Android Basics in Kotlin](/courses/android-basics-kotlin.html)
 
 ---
 
