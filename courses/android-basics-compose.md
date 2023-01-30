@@ -2,6 +2,8 @@
 title: "Android Basics with Compose"
 ---
 
+![Android Basics with Compose](/assets/img/courses/screenshot-android-basics-compose.png)
+
 [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
 
 - [Unit 2 Building app UI](https://developer.android.com/courses/android-basics-compose/unit-2)

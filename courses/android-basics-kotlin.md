@@ -2,6 +2,8 @@
 title: "Android Basics in Kotlin"
 ---
 
+![Screenshot Course Start Page](/assets/img/courses/screenshot-android-basics-compose.png)
+
 [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
 - [Unit 3 Navigation](https://developer.android.com/courses/android-basics-kotlin/unit-3)
