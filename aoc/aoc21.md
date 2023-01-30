@@ -4,6 +4,8 @@ date: 2021-12-31
 author: markus spath
 ---
 
+![Screenshot AOC 2021](/assets/img/aoc/aoc-2021.png)
+
 `2021-12-25`
 
 ## aoc day 25 Sea Cucumber
