@@ -2,7 +2,14 @@
 layout: home
 ---
 
-## Pages
+### Hi there 👋
+
+- 🌱 I’m currently learning Android development with Kotlin, Jetpack and Compose. 
+- 👯 I’m also branching out into Rust and TypeScript / React.
+
+
+Here I'm collecting notes, links and other materials to annotate and complement my [GitHub repo](https://github.com/mspath). 
+
 
 ![Android Bot](/assets/img/courses/android-bot.png){:width="400px"}
 

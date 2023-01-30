@@ -6,8 +6,8 @@ author: markus spath
 
 ![Screenshot AOC 2022](/assets/img/aoc/aoc-2022.png)
 
-Homepage: [Advent of Code 2022](https://adventofcode.com/2022)
-Repo: [aoc2022](https://github.com/mspath/aoc2022) in Kotlin
+- Homepage: [Advent of Code 2022](https://adventofcode.com/2022)
+- Repo: [aoc2022](https://github.com/mspath/aoc2022) in Kotlin
 
 ---
 
