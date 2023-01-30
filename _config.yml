@@ -1,6 +1,6 @@
 title: mspath.github.io
 author: markus spath
-description: github repo notes 
+description: repo notes 
 site.url: "https://mspath.github.io"
 show_excerpts: true
 permalink: /:year/:month/:title.html
