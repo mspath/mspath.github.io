@@ -9,7 +9,8 @@ layout: home
 - 🔭 I’m currently working on filling the missing days in the Advent of Code series.
 
 
-Here I'm collecting notes, links and other materials to annotate and complement my [GitHub repo](https://github.com/mspath). 
+Here I'm collecting notes, links and other materials to annotate and complement my [GitHub repo](https://github.com/mspath) and [Google developer profile](https://g.dev/hackr)
+
 
 ---
 
