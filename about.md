@@ -7,8 +7,9 @@ Hi!
 
 ![tree][logo]
 
-Say hi on [twitter][1] or my [blog][2]
+Say hi on [twitter][1], [mastodon][2] or my [blog][3]
 
 [logo]: /assets/img/hackr_logo.jpg
 [1]: https://twitter.com/hackr
-[2]: https://hackr.de/
+[2]: https://mastodon.social/@hackr_de
+[3]: https://hackr.de/
