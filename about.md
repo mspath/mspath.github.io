@@ -7,7 +7,7 @@ Hi!
 
 ![tree][logo]
 
-Say hi on [twitter][1], [mastodon][2] or my [blog][3]
+You can find me on [twitter][1], [mastodon][2] or my [blog][3]
 
 [logo]: /assets/img/hackr_logo.jpg
 [1]: https://twitter.com/hackr

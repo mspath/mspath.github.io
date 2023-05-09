@@ -45,3 +45,9 @@ title: "Android Basics with Compose"
   - [Codelab Load and display images from the internet](https://developer.android.com/codelabs/basic-android-kotlin-compose-load-images)
   - [Project Create a Bookshelf App](https://developer.android.com/codelabs/basic-android-kotlin-compose-bookshelf)
 
+- [Unit 6 Data Persistence](https://developer.android.com/courses/android-basics-compose/unit-6)
+  - [Codelab Persist Data with Room](https://developer.android.com/codelabs/basic-android-kotlin-compose-persisting-data-room) ([> inventoryapp](https://github.com/mspath/inventoryapp))
+  - [Read and Update Data with Room](https://developer.android.com/codelabs/basic-android-kotlin-compose-update-data-room)
+  - [Practice Bus Schedule app](https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-bus-schedule-app) ([> busschedule_composed](https://github.com/mspath/busschedule_composed))
+  - [Save preferences locally with DataStore](https://developer.android.com/codelabs/basic-android-kotlin-compose-datastore) ([> dessertrelease_composed](https://github.com/mspath/dessertrelease_composed))
+  - [Project Create a Flight Search](https://developer.android.com/codelabs/basic-android-kotlin-compose-flight-search)
