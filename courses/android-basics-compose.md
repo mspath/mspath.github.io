@@ -51,3 +51,11 @@ title: "Android Basics with Compose"
   - [Practice Bus Schedule app](https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-bus-schedule-app) ([> busschedule_composed](https://github.com/mspath/busschedule_composed))
   - [Save preferences locally with DataStore](https://developer.android.com/codelabs/basic-android-kotlin-compose-datastore) ([> dessertrelease_composed](https://github.com/mspath/dessertrelease_composed))
   - [Project Create a Flight Search](https://developer.android.com/codelabs/basic-android-kotlin-compose-flight-search)
+
+- [Unit 7 WorkManager](https://developer.android.com/courses/android-basics-compose/unit-7)
+  - [Codelab Background Work with WorkManager](https://developer.android.com/codelabs/basic-android-kotlin-compose-workmanager) ([> bluromatic_composed](https://github.com/mspath/bluromatic_composed))
+  - [Practice Water Me app](https://developer.android.com/codelabs/basic-android-kotlin-compose-practice-water-me-app) ([> waterme_composed](https://github.com/mspath/waterme_composed))
+
+- [Unit 8 Views and Compose](https://developer.android.com/courses/android-basics-compose/unit-8)
+  - [Codelab Add Compose to a legacy app](https://developer.android.com/codelabs/basic-android-kotlin-training-compose-add-compose-to-a-view-based-app) ([> juicetracker](https://github.com/mspath/juicetracker))
+  - [Codelab View Interoperability in Compose](https://developer.android.com/codelabs/basic-android-kotlin-compose-view-interop) ([> juicetracker_composed](https://github.com/mspath/juicetracker_composed))
