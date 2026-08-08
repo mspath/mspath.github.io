@@ -3,13 +3,8 @@ title: links
 permalink: /links.html
 ---
 
-## Google I/O 2023
-
-- [100 things we announced at I/O 2023](https://blog.google/technology/developers/google-io-2023-100-announcements/)
-
-## Educational
+## Fun
 
 - [Advent of Code](https://adventofcode.com/)
-- [LeetCode](https://leetcode.com/)
 
 ---
